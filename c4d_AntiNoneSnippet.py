@@ -2,6 +2,7 @@ def main():
     # par = Link Port of Parent
     # Next = Distance Count
     # co = Present Instance
+    # XPressoG = The XGroup with UserData
     
     if par != None:
         Next = XPressoG[c4d.ID_USERDATA,2]
